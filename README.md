@@ -1,5 +1,5 @@
 # Lightness-js
-Text Animation, It is developed using JavaScript, Css and Html.
+Text Animation, It is developed using Css and Html.
 
 
 <br>
